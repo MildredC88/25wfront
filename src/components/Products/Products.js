@@ -69,8 +69,8 @@ export default () => {
               <h3 className="products-subtitle">Producto 3</h3>
               <h2 className="products-h2"> Scroll 3</h2>
 
-              <img src={imgGithub} className="imgSlider" />
-              <a className="products-p" href="https://www.adidas.com.ar">
+              <img src={imgAdidas} className="imgSlider" />
+              <a className="products-p" href="https://www.adidas.com.ar" target="_blank">
               https://www.adidas.com.ar
               </a>
 
@@ -104,8 +104,8 @@ export default () => {
               <h3 className="products-subtitle">Producto 2</h3>
               <h2 className="products-h2"> Scroll 2</h2>
 
-              <img src={imgGithub} className="imgSlider" />
-              <a className="products-p" href="https://www.nike.com/ar/">
+              <img src={imgNike} className="imgSlider" />
+              <a className="products-p" href="https://www.nike.com/ar/" target="_blank">
               https://www.nike.com/ar/
               </a>
 
